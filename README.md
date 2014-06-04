@@ -39,7 +39,7 @@ Simply copy directories in `src` to your source tree.
 
 If you want to use GestureDetector, ScaleGestureDetector and RotateGestureDetector together, it's time to use CompositeGestureDetector.
 
-**NOTE : ** CompositeGestureDetector needs android-support-v4.jar.
+**NOTE** : CompositeGestureDetector needs android-support-v4.jar.
 
 
 ```Java
