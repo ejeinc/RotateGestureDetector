@@ -4,6 +4,12 @@
 
 RotateGestureDetector can detect two fingure rotation. You can implement rotation function such as Google Map.
 
+
+## Install
+
+[Download jar](https://github.com/ejeinc/RotateGestureDetector/raw/master/bin/librotategesturedetector.jar) and add to `libs` directory.
+
+
 ## Code sample
 
 You can use RotateGestureDetector as same as [GestureDetector](http://developer.android.com/reference/android/view/GestureDetector.html).
